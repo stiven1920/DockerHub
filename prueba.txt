@@ -1,0 +1,7 @@
+insertart
+
+
+Hola desde la terminal con nano 
+
+
+pruebas doss desde la terminal

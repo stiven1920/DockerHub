@@ -1,0 +1,6 @@
+Nombre: Beatriz.
+Apellido: Gutierrez.
+Estatura: 1.63 Cm.
+Rh: O+.
+Email: tronchaToro@familia.com
+
